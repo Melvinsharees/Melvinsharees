@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Melvin Sharees 👋</h1>
+<h1 align="center">Hi, I'm Melvin Sharees </h1>
 
 <p align="center">
   <b>Computer &amp; Autonomous Systems Engineering student</b> — Robotics · AI/ML · Embedded · Data
@@ -11,7 +11,7 @@
 
 ---
 
-## Featured projects
+##  Featured projects
 
 ### Lensø — Real-time Speech → Sign-Language Wearable
 Offline speech-to-sign on a **Raspberry Pi**: Vosk speech recognition → NLP → **SiGML 3D avatar** in the browser. Lead software integrator on a 5-person team; live-demoed at the Innovation Fair.
@@ -29,15 +29,15 @@ A **Pioneer 3-DX** robot in **Webots** (C) that finds coloured balls with its ca
 
 <p align="center"><img src="assets/robot-demo.gif" width="440" alt="Sorter robot with live console"></p>
 
-**➡️ [View repository](https://github.com/Melvinsharees/Autonomous-Smart-Sorter-Robot)**
+**➡️ [View repository](https://github.com/Melvinsharees/autonomous-sorter-robot)**
 
 ## 📂 More projects
 
 | Project | What it is | Tech |
-|---------|------------|:----:|
+|---------|------------|------|
 | **[Statistical Analysis](https://github.com/Melvinsharees/statistical-analysis)** | Machine-failure risk analysis (distributions, confidence intervals, hypothesis tests) + heart-rate linear regression &amp; ANOVA | MATLAB · Excel |
-| **[Op-Amp Function Generator](https://github.com/Melvinsharees/Op-Amp-Function-Generator)** | Analog square/triangular/sine generator, tunable ~544 Hz–55 kHz, taken to a PCB layout | Multisim · Ultiboard · PCB |
-| **[Vending Machine Controller](https://github.com/Melvinsharees/Vending-Machine)** | Console vending machine — state-machine menu, coin payment &amp; change, password-protected admin mode | C |
+| **[Op-Amp Function Generator](https://github.com/Melvinsharees/op-amp-function-generator)** | Analog square/triangular/sine generator, tunable ~544 Hz–55 kHz, taken to a PCB layout | Multisim · Ultiboard · PCB |
+| **[Vending Machine Controller](https://github.com/Melvinsharees/vending-machine-c)** | Console vending machine — state-machine menu, coin payment &amp; change, password-protected admin mode | C |
 
 ## 🛠️ Skills
 
@@ -51,3 +51,5 @@ A **Pioneer 3-DX** robot in **Webots** (C) that finds coloured balls with its ca
 
 **AI / Data:** Speech Recognition (Vosk / Whisper) · NLP · Computer Vision · Statistical Analysis · Hypothesis Testing
 **Systems / Tools:** Webots · Multisim · Ultiboard · Finite-State Machines · Embedded Systems · Git
+
+<p align="center"><i>Open to internships and graduate roles in robotics, embedded, and software engineering.</i></p>
