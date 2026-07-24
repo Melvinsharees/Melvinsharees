@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Melvin Sharees 👋</h1>
+<h1 align="center">Hi, I'm Melvin Sharees </h1>
 
 <p align="center">
   <b>Computer &amp; Autonomous Systems Engineering student</b> — Robotics · AI/ML · Embedded · Data
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Featured projects
+##  Featured projects
 
 ### Lensø — Real-time Speech → Sign-Language Wearable
 Offline speech-to-sign on a **Raspberry Pi**: Vosk speech recognition → NLP → **SiGML 3D avatar** in the browser. Lead software integrator on a 5-person team; live-demoed at the Innovation Fair.
