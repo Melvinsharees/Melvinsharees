@@ -38,6 +38,7 @@ A **Pioneer 3-DX** robot in **Webots** (C) that finds coloured balls with its ca
 | **[Statistical Analysis](https://github.com/Melvinsharees/statistical-analysis)** | Machine-failure risk analysis (distributions, confidence intervals, hypothesis tests) + heart-rate linear regression &amp; ANOVA | MATLAB · Excel |
 | **[Op-Amp Function Generator](https://github.com/Melvinsharees/op-amp-function-generator)** | Analog square/triangular/sine generator, tunable ~544 Hz–55 kHz, taken to a PCB layout | Multisim · Ultiboard · PCB |
 | **[Vending Machine Controller](https://github.com/Melvinsharees/vending-machine-c)** | Console vending machine — state-machine menu, coin payment &amp; change, password-protected admin mode | C |
+| **[Projectile Simulation](https://github.com/Melvinsharees/Projectile-Simulation-MATLAB)** | Projectile motion over a building — solves the minimum launch angle &amp; speed to clear it and hit a target, with a MATLAB App GUI | MATLAB · App Designer |
 
 ## 🛠️ Skills
 
