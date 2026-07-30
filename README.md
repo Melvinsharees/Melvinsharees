@@ -53,5 +53,3 @@ A **Pioneer 3-DX** robot in **Webots** (C) that finds coloured balls with its ca
 
 **AI / Data:** Speech Recognition (Vosk / Whisper) · NLP · Computer Vision · Statistical Analysis · Hypothesis Testing
 **Systems / Tools:** Webots · Multisim · Ultiboard · Finite-State Machines · Embedded Systems · Git
-
-<p align="center"><i>Open to internships and graduate roles in robotics, embedded, and software engineering.</i></p>
